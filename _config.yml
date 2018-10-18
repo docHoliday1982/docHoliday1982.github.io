@@ -80,7 +80,7 @@ gems:
 # collections
 collections:
   connecttech2018
-    output:  true
+    output: true
 
 # Exclude these files from your production _site
 exclude:
