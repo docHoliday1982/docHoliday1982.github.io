@@ -79,7 +79,7 @@ gems:
   
 # collections
 collections:
-  conecttech2018
+  connecttech2018
     output:  true
 
 # Exclude these files from your production _site
